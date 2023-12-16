@@ -18,9 +18,11 @@
 
 ## Installation
 
-#### 1. Clone the repository
-#### 2. At the root of the directory install the node modules using the following command: `npm install`
-#### 3. Navigate to the sever folder by typing `cd server` and install the node modules with the same command: `npm install`
+#### 1. Please be sure to install Node.js prior to cloning the repository
+  [Download Node.js](https://nodejs.org/en/download/current)
+#### 2. Clone the repository
+#### 3. At the root of the directory install the node modules using the following command: `npm install`
+#### 4. Navigate to the sever folder by typing `cd server` and install the node modules with the same command: `npm install`
 
 ## How to Run
 
